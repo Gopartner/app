@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/88181924/129116268-0bbb2ec6-b487-4a08-956b-d75f0668382a.jpg
+![FB_IMG_1628724377743](https://user-images.githubusercontent.com/88181924/129116749-fb0801a9-0f48-4955-992b-ec1f6e22c45c.jpg)
 # Project untuk group G.O.S COMMUNITY
 
 
