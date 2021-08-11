@@ -7,9 +7,7 @@ In the project directory, you can run:
 
 ### `npm run delpoy`
 
-Open [http://localhost:3000]() to view it in the browser.
-
-
+Open [G.O.S COMMUNITY](https://gopartner.github.io/app/) to view it in the browser.
 
 
 
