@@ -1,0 +1,10 @@
+.menu {
+	width:30%;
+	font-size:20px;
+	background-color:skyblue;
+	color: grey;
+	position: absolute;
+	right:200px;
+	box-shadow: 0,5px,3px,5px,black;
+}
+
