@@ -1,5 +1,14 @@
+import React,{Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
+
+class Coba extends Component {
+	render(){
+		return <>
+			<h1></h1>
+			</>
+	}
+}
 
 function App() {
   return (
@@ -17,6 +26,7 @@ function App() {
         >
           
         </a>
+	  <Coba/>
       </header>
     </div>
   );
