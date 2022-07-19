@@ -1,13 +1,13 @@
-import React,{Component} from 'react';
+import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
 class Coba extends Component {
-	render(){
-		return <>
-			<h1></h1>
-			</>
-	}
+  render() {
+    return <>
+      <h1>tes bro</h1>
+    </>
+  }
 }
 
 function App() {
@@ -24,9 +24,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          
+
         </a>
-	  <Coba/>
+        <Coba />
       </header>
     </div>
   );
